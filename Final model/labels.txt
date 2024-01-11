@@ -1,0 +1,10 @@
+0 A
+1 E
+2 H
+3 O
+4 R
+5 Hello
+6 Yes
+7 No
+8 I love you
+9 Help
